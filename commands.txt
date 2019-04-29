@@ -1,4 +1,0 @@
-sipp -inf users.csv -sf ./sipp-scenarios/sipp_uac_register_broken_contact.xml -d 1000 -s 5000 -i 192.168.100.14 192.168.100.11
-
-sipp -sf sipp_uac_invite-401-invite.xml -inf data.csv -m 120 -l 120 -r 1 -t un -i 192.168.100.14 192.168.100.11
-
